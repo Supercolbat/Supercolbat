@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there, I'm Joey (a.k.a Supercolbat)!
 
-<!--
-**Supercolbat/Supercolbat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a high school student who likes to code stuff. I don't focus on anything specific.
 
-Here are some ideas to get you started:
+### What I do?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:snake: Python
+
+:brain: Brainfork
+
+:dart: Flutter/Dart
+
+👨‍💻 HTML (Pug), CSS (Sass)
+
+### What do I want to do?
+
+:crab: Rust
+
+:crown: Nim
+
+⚡ Zig
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Supercolbat&show_icons=true&theme=radical)
