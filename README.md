@@ -1,23 +1,45 @@
-## Hi there, I'm Joey (a.k.a Supercolbat)!
+# Hi there, I'm Joey. (a.k.a Supercolbat)
 
-I am a high school student who likes to code stuff. I don't focus on anything specific.
+I'm a high school student with experience in frontend design and development.
 
-### What I do?
+## What I do
 
-:snake: Python
+**Programming**
 
-:brain: Brainfork
+<table>
+  <tr>
+    <td>:crab: Rust</td>
+    <td>:bird: Flutter + Dart</td>
+    <td>:crown: Nim</td>
+  </tr>
+  <tr>
+    <td>:snake: Python</td>
+    <td>:brain: Brainfork</td>
+    <td>Sample text</td>
+  </tr>
+</table>
 
-:dart: Flutter/Dart
+**Design**
 
-👨‍💻 HTML (Pug), CSS (Sass)
+<table>
+  <tr>
+    <td>:paintbrush: Figma</td>
+    <td>:memo: Pen and paper</td>
+    <td>:desktop_computer: about:blank</td>
+  </tr>
+</table>
 
-### What do I want to do?
+## What I want to do
 
-:crab: Rust
+<table>
+  <tr>
+    <td>:package: SvelteKit</td>
+    <td>:zap: Zig</td>
+  </tr>
+</table>
 
-:crown: Nim
+<br />
 
-⚡ Zig
+###### this because it looks cool
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Supercolbat&show_icons=true&theme=radical)
