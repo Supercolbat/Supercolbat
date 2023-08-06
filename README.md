@@ -1,4 +1,4 @@
-# Hi there, I'm Joey. (a.k.a Supercolbat)
+# Hi there, I'm Joey.
 
 I'm a high school student with experience in frontend design and development.
 
