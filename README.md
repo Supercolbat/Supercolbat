@@ -37,9 +37,3 @@ I'm a high school student with experience in frontend design and development.
     <td>:zap: Zig</td>
   </tr>
 </table>
-
-<br />
-
-###### this because it looks cool
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Supercolbat&show_icons=true&theme=radical)
