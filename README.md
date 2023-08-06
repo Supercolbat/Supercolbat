@@ -1,6 +1,6 @@
 # Hi there, I'm Joey.
 
-I'm a high school student with experience in frontend design and development.
+I'm a high school student with experience in front-end design and development.
 
 ## What I do
 
@@ -23,7 +23,7 @@ I'm a high school student with experience in frontend design and development.
 
 <table>
   <tr>
-    <td>:paintbrush: Figma</td>
+    <td>:paintbrush: Figma / Penpot</td>
     <td>:memo: Pen and paper</td>
     <td>:desktop_computer: about:blank</td>
   </tr>
