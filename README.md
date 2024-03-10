@@ -1,6 +1,6 @@
 # Hi there, I'm Joey.
 
-I'm a high school student with experience in front-end design and development.
+I'm a high school student and front-end designer and developer.
 
 ## What I do
 
@@ -9,13 +9,22 @@ I'm a high school student with experience in front-end design and development.
 <table>
   <tr>
     <td>:crab: Rust</td>
-    <td>:bird: Flutter + Dart</td>
-    <td>:crown: Nim</td>
+    <td>:cool: TypeScript</td>
+    <td>:snake: Python</td>
   </tr>
   <tr>
-    <td>:snake: Python</td>
     <td>:brain: Brainfork</td>
     <td>Sample text</td>
+    <td>Sample text</td>
+  </tr>
+</table>
+
+**Frameworks**
+
+<table>
+  <tr>
+    <td>:package: SvelteKit</td>
+    <td>:bird: Flutter</td>
   </tr>
 </table>
 
@@ -23,7 +32,7 @@ I'm a high school student with experience in front-end design and development.
 
 <table>
   <tr>
-    <td>:paintbrush: Figma / Penpot</td>
+    <td>:paintbrush: Figma</td>
     <td>:memo: Pen and paper</td>
     <td>:desktop_computer: about:blank</td>
   </tr>
@@ -33,7 +42,6 @@ I'm a high school student with experience in front-end design and development.
 
 <table>
   <tr>
-    <td>:package: SvelteKit</td>
     <td>:zap: Zig</td>
   </tr>
 </table>
