@@ -1,6 +1,6 @@
 # Hi there, I'm Joey.
 
-I'm a high school student and front-end designer and developer.
+I'm a college student who cosplays as a front-end developer.
 
 ## What I do
 
@@ -9,7 +9,7 @@ I'm a high school student and front-end designer and developer.
 <table>
   <tr>
     <td>:crab: Rust</td>
-    <td>:cool: TypeScript</td>
+    <td>:zap: Zig</td>
     <td>:snake: Python</td>
   </tr>
   <tr>
@@ -23,7 +23,8 @@ I'm a high school student and front-end designer and developer.
 
 <table>
   <tr>
-    <td>:package: SvelteKit</td>
+    <td>:package: 11ty</td>
+    <td>:wrench: SvelteKit</td>
     <td>:bird: Flutter</td>
   </tr>
 </table>
@@ -42,6 +43,8 @@ I'm a high school student and front-end designer and developer.
 
 <table>
   <tr>
-    <td>:zap: Zig</td>
+    <td>:zap: finish making my website</td>
+    <td>Sample text</td>
+    <td>Sample text</td>
   </tr>
 </table>
